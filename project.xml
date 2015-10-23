@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="HaxeWeb" package="com.sample.haxeweb" version="1.0.0" company="Company Name" />
+	<app main="Main" path="bin" file="haxeWeb" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="assets" />
+	
+</project>
